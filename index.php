@@ -48,8 +48,7 @@
 
     <div class="panels">
         <div class="panel">
-            <h2>Input</h2>
-            <h3>(Pos;Profiel;Lengte;Aantal)</h3>
+            <h2>Input (Pos; Profiel; Lengte; Aantal)</h2>
             <form method="POST">
                 <textarea required name="dataDump" rows="12" cols="50"><?php echo $inputString; ?></textarea>
                 <br>
