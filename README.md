@@ -13,4 +13,4 @@ This project enables the user to lay-out materials in an efficient way to avoid 
 
 ### Start!
 * Open any browser.
-* Go to http://localhost/materials/.
+* Go to http://localhost/materials/. If you had to configure a specific port (because the default was already in use), make sure to include that, like this: http://localhost:81/materials/.
