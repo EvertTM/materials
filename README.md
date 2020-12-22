@@ -9,8 +9,8 @@ This project enables the user to lay-out materials in an efficient way to avoid 
 
 ### Clone the repository
 * Navigate to the document root of your webserver. For Xampp this is the "xampp/htdocs" directory.
-* Clone this repository in a new folder "Materials".
+* Clone this repository in a new folder "materials".
 
 ### Start!
 * Open any browser.
-* Go to `http://localhost/Materials/`.
+* Go to http://localhost/materials/.
