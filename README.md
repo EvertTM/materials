@@ -1,5 +1,5 @@
 # Materials
-This project enables the user to lay-out materials in an efficient way to avoid wasting materials while sawing.
+Materials is a calculator for laying out materials in an efficient way to make sure little is wasted when their sawn.
 
 ## Get started
 
@@ -14,3 +14,10 @@ This project enables the user to lay-out materials in an efficient way to avoid 
 ### Start!
 * Open any browser.
 * Go to http://localhost/materials/. If you had to configure a specific port (because the default was already in use), make sure to include that, like this: http://localhost:81/materials/.
+
+
+## Usage
+
+## Updates
+Updates are not downloaded automatically, so you will have to do that as follows:
+* Run the `update.bat` file (double-click it), to manually update the calculator to the latest version.
