@@ -1,5 +1,6 @@
 # Materials
 Materials is a calculator for laying out materials in an efficient way to make sure little is wasted when their sawn.
+NOTE: This project is still in a quick-and-dirty state! Currently doing step 1 of the "Make it work, make it beautiful, make it fast" cycle.
 
 ## Get started
 
