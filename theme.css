@@ -1,0 +1,62 @@
+html {
+	background-color: #999999;
+}
+
+body {
+    padding: 1%;
+    margin: 1% auto;
+    width: 80%;
+	background-color: #eeeeee;
+}
+
+html::-webkit-scrollbar {
+    display: none;
+}
+
+h1 {
+	text-align: center;
+}
+
+h5, h3 {
+	margin-top: 5px;
+	margin-bottom: 2px;
+}
+
+div {
+	border-radius: 8px;
+}
+
+.panels {
+	overflow: hidden;
+}
+
+.panel {
+    margin: 1% auto;
+    padding: 1%;
+	width: 80%;
+    border: 3px solid #999999;
+}
+
+table, td, th {
+  border: 1px solid black;
+}
+
+table {
+  border-collapse: collapse;
+  background-color: #eeeeee;
+  margin-bottom: 15px;
+}
+
+pre {
+	background-color: #000000;
+	color: #ffffff;
+}
+
+.exception {
+	background-color: #ffcccc;
+	color: #ff0000;
+	border: 3px solid #ff0000;
+	padding: 1%;
+	white-space: pre-wrap;
+	word-wrap: break-word;
+}
