@@ -1,4 +1,3 @@
 cd %~dp0
-git reset --hard
 git fetch --all
-git pull
+git reset --hard orifin/dev
